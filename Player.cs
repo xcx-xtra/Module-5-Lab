@@ -1,8 +1,6 @@
 // Author : Webster B
 // Date : 2/13/2025
 // Purpose : This class is used to create a player object that will be used in the game. 
-// The player object will have a name, score, and lives left. The player object will be used 
-// to keep track of the player's progress in the game.
 
 using System;
 using System.Collections.Generic;
